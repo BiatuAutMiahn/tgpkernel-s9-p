@@ -1,7 +1,7 @@
 # TGPKernel S9 (for Android Pie 9)
 
 ![TGPKernel Logo](https://github.com/TheGalaxyProject/tgpkernel-s9-p/blob/master/build/logo.png?raw=true)
-
+![C/C++ CI](https://github.com/BiatuAutMiahn/tgpkernel-s9-p/workflows/C/C++%20CI/badge.svg)
 A Custom Kernel for Samsung Galaxy S9 / S9+
 
 * XDA Unified S9 / S9+ Forum: http://forum.xda-developers.com/showthread.php?t=3887308
